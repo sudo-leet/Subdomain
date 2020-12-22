@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 filename=$1
 while read url; do
          echo "Subfinder"
